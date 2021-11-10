@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A final year MCA Student from Chandigarh University. Currently working on DSA and Web Dev.
+
 <!--
 **adar5h/adar5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
