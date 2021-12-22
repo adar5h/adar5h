@@ -2,7 +2,7 @@
 
 A final year MCA Student from Chandigarh University. Currently working on DSA and Web Dev.
 
-Have a look at my <a href="adar5h.github.io">Portfolio</a>
+Have a look at my <a href="https://adar5h.github.io/">Portfolio</a>
 
 <!--
 **adar5h/adar5h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
