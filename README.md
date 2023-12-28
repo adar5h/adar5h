@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A final year MCA Student from Chandigarh University. Currently working on DSA and Web Dev.
+A Software Dev with a knack and passion for problem solving.
 
 Have a look at my <a href="https://adar5h.github.io/">Portfolio</a>
 
