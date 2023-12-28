@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![snake gif](https://github.com/adar5h/adar5h/blob/output/github-contribution-grid-snake.svg) -->
-
+Happy to let this snake eat out my contributions!
 <p align="center">
-  <img src="https://github.com/adar5h/adar5h/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  ![snake gif](https://github.com/adar5h/adar5h/blob/output/github-contribution-grid-snake.gif)
 </p>
