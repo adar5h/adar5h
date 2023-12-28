@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 
 <!-- ![snake gif](https://github.com/adar5h/adar5h/blob/output/github-contribution-grid-snake.svg) -->
 Happy to let this snake eat out my contributions!
-![Snake animation](https://raw.githubusercontent.com/adar5h/adar5h/output/github-contribution-grid-snake.svg)
-<p align="center">
- <img src="https://github.com/adar5h/adar5h/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
+![Snake animation](https://raw.githubusercontent.com/adar5h/adar5h/output/github-contribution-grid-snake-dark.svg)
+
